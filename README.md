@@ -1,1 +1,1 @@
-# terraform for learing only
+# terraform for learing
